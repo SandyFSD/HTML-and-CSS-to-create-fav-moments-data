@@ -1,0 +1,118 @@
+#topic{
+    height: 100px;
+    background-color: rgb(175, 214, 201);
+    border: 4px solid black;
+    border-radius: 40px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    
+}
+
+#title,ul,li{
+    display: inline;
+    font-size: x-large;
+    
+}
+#title{
+    font-size: 70px;
+}
+
+li{
+    font-size: larger;
+}
+ul{
+    margin-left: 20%;
+}
+
+#about{
+    font-size: 50px;
+}
+
+#data{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    padding: 20px;
+    padding-left: 30px;
+    margin-left: 13%;
+    background-color: beige;
+    opacity: 40%;
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor:grab;
+}
+
+#ff{
+    width: 100%;
+    height: 20%;
+
+}
+
+#food{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-right: 19%;
+    margin-left: 5%;
+    background-color: beige;
+    opacity: 40%;
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+#movie{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-left: 25%;
+    background-color: beige;
+    opacity: 40%;
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+
+#sport{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-right: 19%;
+    margin-left: 5%;
+    background-color: beige;
+    opacity: 30%;
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+#gym{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    margin-right: 5%;
+    margin-left: 19%;
+    margin-top: 4%;
+    padding-top: 50px;
+    background-color: beige;
+    opacity: 30%;
+    padding: 20px;
+    padding-left: 30px;
+    border-radius: 20px;
+}
+
+body{
+    margin-bottom: 6%;
+    background-repeat: no-repeat;
+    background-size:100% 110%;
+    background-position: center;
+    opacity: 0px;
+    background-image:url('./img/IMG_20241025_121727.jpg') ;
+}
